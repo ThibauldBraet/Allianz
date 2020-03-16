@@ -1,0 +1,8 @@
+Incomes:
+https://statbel.fgov.be/nl/themas/huishoudens/fiscale-inkomens/plus
+
+Unemployment:
+https://www.steunpuntwerk.be/node/2776
+
+Mapping (to connect postcodes to nis codes):
+https://mhermans.net/files/r/be_geomapping/20170226_example_mapping_postcode.html
