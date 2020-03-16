@@ -1,0 +1,5 @@
+# Don't commit jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Don't commit Mac-specific files
+*.DS_Store
